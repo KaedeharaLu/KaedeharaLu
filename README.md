@@ -13,7 +13,7 @@
 <br/>
 
 <p align="center">
-<img src="./Furina.JPG"  width="75%"/>
+<img src="./Furina.JPG"  width="80%"/>
 </p>
 
 <p align="center">
