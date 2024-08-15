@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Follow+the+unfinishe+path+and+go+farther!;沿着前人未尽的道路+走出更远的距离!" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=23&pause=1000&center=true&vCenter=true&random=false&width=600&lines=风向是会转变的+终有一天会吹向更加光亮的地方;飘摇风雨中+睹物思故乡;最初的鸟儿是不会飞翔的+飞翔是它们勇敢跃入峡谷的奖励;最神奇的魔法+就是切实的努力" />
 </p>
 <p align="center">
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=KaedeharaLu&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs" />
@@ -13,7 +13,7 @@
 <br/>
 
 <p align="center">
-<img src="https://github.com/FichteHerbst/FichteHerbst/assets/144253610/87715cee-7aac-4547-8a32-8530b96b8dbd"  width="75%"/>
+<img src="https://pan.kazuhalu.com/d/sources/Github/Furina.JPG"  width="75%"/>
 </p>
 
 <p align="center">
@@ -21,9 +21,3 @@
 <a href="https://gitee.com/KaedeharaLu"><img src="https://img.shields.io/badge/Gitee-KaedeharaLu-red?logo=gitee"/></a>
 <img src="https://komarev.com/ghpvc/?username=KaedeharaLu&abbreviated=true&color=yellow" />
 </p>
-
-
-<!---
-KaedeharaLu/KaedeharaLu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
