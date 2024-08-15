@@ -13,7 +13,7 @@
 <br/>
 
 <p align="center">
-<img src="https://pan.kazuhalu.com/d/sources/Github/Furina.JPG"  width="75%"/>
+<img src="./Furina.JPG"  width="75%"/>
 </p>
 
 <p align="center">
